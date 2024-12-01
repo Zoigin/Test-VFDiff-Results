@@ -2,7 +2,9 @@
 
 
 
-The code is borrowed from TargetDiff [[PDF]](https://openreview.net/pdf?id=kJqXEPXMsE0)  using for test VFDiff results 
+The code is borrowed from TargetDiff [[PDF]](https://openreview.net/pdf?id=kJqXEPXMsE0)  using for test VFDiff results. 
+
+This project is intended for reviewers to test during the review period.
 
 <p align="center">
   <img src="assets/overview.png" /> 
