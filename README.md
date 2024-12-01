@@ -1,4 +1,4 @@
-# 3D Equivariant Diffusion for Target-Aware Molecule Generation and Affinity Prediction (Using for test VFDiff results)
+# TargetDiff (Using for test VFDiff results)
 
 
 
