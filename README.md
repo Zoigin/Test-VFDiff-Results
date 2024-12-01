@@ -6,6 +6,12 @@ The code is borrowed from TargetDiff [[PDF]](https://openreview.net/pdf?id=kJqXE
 
 This project is intended for reviewers to test during the review period.
 
+We have added the `targetdiff/evaluate_diffusion.py` file, which is identical to `targetdiff/scripts/evaluate_diffusion.py` in terms of bond JSD evaluation. 
+
+Additionally, we have provided the log files generated after running the evaluation. 
+
+We plan to release our model code publicly after the paper is accepted.
+
 <p align="center">
   <img src="assets/overview.png" /> 
 </p>
